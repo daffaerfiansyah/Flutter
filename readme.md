@@ -48,3 +48,9 @@ Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat l
 Install Aplikasi Virtualbox
 
 ![App Screenshot](https://github.com/daffaerfiansyah/SistemOperasi/blob/main/Foto/Login.png?raw=true)
+
+## Documentation
+
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+[Debian 12](https://www.debian.org/download)
