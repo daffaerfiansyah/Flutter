@@ -24,7 +24,7 @@
 4. [Referensi](#referensi)
 
 
-### 1. Sistem Operasi
+## 1. Sistem Operasi
 
 Sistem Operasi (SO) adalah perangkat lunak yang mengatur bagaimana sumber daya perangkat keras (seperti prosesor, memori, dan penyimpanan) di dalam komputer digunakan dan diatur. Secara umum, sistem operasi (OS) dapat dianggap sebagai perangkat lunak paling mendasar yang berjalan pada suatu sistem komputer. Ini menyediakan lingkungan di mana pengguna dapat menjalankan aplikasi.
 
