@@ -55,7 +55,7 @@ Sektor boot sendiri adalah area khusus yang berisi instruksi awal untuk memuat s
 Setelah sektor boot ditemukan, komputer akan memuat sistem operasi ke dalam memori utama (RAM). 
 Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan program-program yang diperlukan untuk mengoperasikan komputer.
 
-### 1. Bagaimana cara install Debian 12 di Virtual Box?
+### 2. Bagaimana cara install Debian 12 di Virtual Box?
 
 ## Tahap Instalasi
 
