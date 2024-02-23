@@ -24,9 +24,11 @@
 4. [Referensi](#referensi)
 
 
-## 1. Sistem Operasi
+## Sistem Operasi Debian 12
 
 Sistem Operasi (SO) adalah perangkat lunak yang mengatur bagaimana sumber daya perangkat keras (seperti prosesor, memori, dan penyimpanan) di dalam komputer digunakan dan diatur. Secara umum, sistem operasi (OS) dapat dianggap sebagai perangkat lunak paling mendasar yang berjalan pada suatu sistem komputer. Ini menyediakan lingkungan di mana pengguna dapat menjalankan aplikasi.
+
+Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan. 
 
 ## Soal
 
@@ -65,7 +67,7 @@ Install Aplikasi Virtualbox
 
 ![App Screenshot](https://github.com/daffaerfiansyah/SistemOperasi/blob/main/Foto/Login.png?raw=true)
 
-## Documentation
+## Referensi
 
 Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan. [(Wikipedia)](https://id.wikipedia.org/wiki/Debian)
 
