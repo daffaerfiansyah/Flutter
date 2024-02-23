@@ -28,6 +28,7 @@
 
 Sistem operasi (Inggris: operating system; disingkat OS) adalah perangkat lunak sistem yang mengatur sumber daya dari perangkat keras dan perangkat lunak, serta sebagai daemon untuk program komputer. Tanpa sistem operasi, pengguna tidak dapat menjalankan program aplikasi pada komputer mereka, kecuali program booting.
 Sistem operasi mempunyai penjadwalan yang sistematis mencakup perhitungan penggunaan memori, pemrosesan data, penyimpanan data, dan sumber daya lainnya.
+
 Contoh sistem operasi modern adalah Linux, Android, iOS, Mac OS X, dan Microsoft Windows.
 
 Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan. 
@@ -38,24 +39,31 @@ Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat l
 
 ## Proses Booting
 
+Proses booting pada komputer, termasuk laptop, terdiri dari beberapa tahapan yang menyusun dari saat tombol power ditekan hingga sistem operasi siap untuk digunakan. Berikut adalah tahapan-tahapan umum proses booting:
+
 1. Power On
+   
 Saat tombol power atau tombol reset dihidupkan, sumber daya listrik akan mengalir ke komputer.
 Kemudian, perangkat keras akan menerima daya untuk dinyalakan.
 
 2. Power-On Self-Test (POST)
+   
 Setelah dinyalakan, komputer akan melakukan Power-On Self-Test atau POST, yang merupakan serangkaian tes perangkat keras untuk memastikan bahwa semuanya berfungsi dengan baik. 
 POST akan memeriksa RAM, prosesor, kartu grafis, dan perangkat keras lainnya. 
 Jika ada masalah dengan perangkat keras, komputer akan memberikan pesan kesalahan yang sesuai.
 
-3. Inisialisasi Perangkat Keras 
+3. Inisialisasi Perangkat Keras
+   
 Setelah POST selesai, komputer akan menginisialisasi perangkat keras seperti hard drive, keyboard, mouse, dan perangkat lainnya. 
 Proses ini melibatkan tahap mengenali perangkat keras, memuat driver yang diperlukan, dan menyiapkan perangkat untuk digunakan.
 
-4. Membaca Sektor Boot 
+4. Membaca Sektor Boot
+   
 Selanjutnya, komputer akan mencari sektor boot di hard drive atau perangkat penyimpanan lainnya. 
 Sektor boot sendiri adalah area khusus yang berisi instruksi awal untuk memuat sistem operasi.
 
-5. Memuat Sistem Operasi 
+5. Memuat Sistem Operasi
+    
 Setelah sektor boot ditemukan, komputer akan memuat sistem operasi ke dalam memori utama (RAM). 
 Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan program-program yang diperlukan untuk mengoperasikan komputer.
 
