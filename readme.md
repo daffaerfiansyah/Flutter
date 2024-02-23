@@ -39,9 +39,9 @@ Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat l
 
 ## Proses Booting
 
-Proses booting pada komputer, termasuk laptop, terdiri dari beberapa tahapan yang menyusun dari saat tombol power ditekan hingga sistem operasi siap untuk digunakan. Berikut adalah tahapan-tahapan umum proses booting:
+Proses booting pada komputer, termasuk laptop, terdiri dari beberapa tahapan yang menyusun dari saat tombol power ditekan hingga sistem operasi siap untuk digunakan. Berikut adalah tahapan-tahapan umum proses booting :
 
-1. Power On
+1. <b>Power On</b>
 Saat tombol power atau tombol reset dihidupkan, sumber daya listrik akan mengalir ke komputer.
 Kemudian, perangkat keras akan menerima daya untuk dinyalakan.
 
