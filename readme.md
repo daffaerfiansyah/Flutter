@@ -26,7 +26,9 @@
 
 ## Sistem Operasi Debian 12
 
-Sistem Operasi (SO) adalah perangkat lunak yang mengatur bagaimana sumber daya perangkat keras (seperti prosesor, memori, dan penyimpanan) di dalam komputer digunakan dan diatur. Secara umum, sistem operasi (OS) dapat dianggap sebagai perangkat lunak paling mendasar yang berjalan pada suatu sistem komputer. Ini menyediakan lingkungan di mana pengguna dapat menjalankan aplikasi.
+Sistem operasi (Inggris: operating system; disingkat OS) adalah perangkat lunak sistem yang mengatur sumber daya dari perangkat keras dan perangkat lunak, serta sebagai daemon untuk program komputer. Tanpa sistem operasi, pengguna tidak dapat menjalankan program aplikasi pada komputer mereka, kecuali program booting.
+Sistem operasi mempunyai penjadwalan yang sistematis mencakup perhitungan penggunaan memori, pemrosesan data, penyimpanan data, dan sumber daya lainnya.
+Contoh sistem operasi modern adalah Linux, Android, iOS, Mac OS X, dan Microsoft Windows.
 
 Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan. 
 
@@ -69,8 +71,10 @@ Install Aplikasi Virtualbox
 
 ## Referensi
 
-Debian adalah sistem operasi komputer yang tersusun dari paket-paket perangkat lunak yang dirilis sebagai perangkat lunak bebas dan terbuka dengan lisensi mayoritas GNU General Public License dan lisensi perangkat lunak bebas lainnya. Debian GNU/Linux memuat perkakas sistem operasi GNU dan kernel Linux merupakan distribusi Linux yang populer dan berpengaruh. Debian didistribusikan dengan akses ke repositori dengan ribuan paket perangkat lunak yang siap untuk instalasi dan digunakan. [(Wikipedia)](https://id.wikipedia.org/wiki/Debian)
+[VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
 
-[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+[Debian 12 Download](https://www.debian.org/download)
 
-[Debian 12](https://www.debian.org/download)
+[Sistem Operasi](https://id.wikipedia.org/wiki/Sistem_operasi)
+
+[Debian](https://id.wikipedia.org/wiki/Debian)
