@@ -1,11 +1,11 @@
 <div align="center">
-  <h1 style="text-align: center;font-weight: bold">Tugas 1<br>Sistem Operasi</h1>
+  <h1 style="text-align: center;font-weight: bold">Praktikum 1<br>Sistem Operasi</h1>
   <h4 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h4>
 </div>
 <br />
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
-  <h3 style="text-align: center;">Disusun Oleh : <br>Kelompok 3</h3>
+  <h3 style="text-align: center;">Disusun Oleh : <br>Kelompok 4</h3>
   <p style="text-align: center;">
     <strong>Muhammad Yafi Rifdah Zayyan (3123500001)</strong><br>
     <strong>Muhammad Daffa Erfiansyah (3123500006)</strong><br>
@@ -18,24 +18,15 @@
 
 ## Daftar Isi
 
-1. [Soal 1](#1-buatlah-tulisan-tentang-langkah-langkah-instalasi-sistem-operasi-debian-anda-bisa-menggunakan-aplikasi-virtualisasi-seperti-virtualbox-vmware-player-vmware-fusion-mac-dls-kebutuhan-sistem-adalah-sebagai-berikut-)
-2. [Soal 2](#2-buat-ringkasan-tentang-perbedaan-dari-debian-12-bookworm-dengan-debian-11-bullseye-versi-kernel-kebutuhan-sistem-penerapan-systemd-dan-perbedaan-packagenya-dalam-bentuk-tabel-)
-3. [Soal 3](#3-jelaskan-fungsi-dari-file-etcgroups-beserta-formatnya)
-4. [Soal 4](#4-jelaskan-perbedaan-penggunaan-perintah-su-dengan-su-)
-5. [Soal 5](#5-jelaskan-fungsi-dari-sudo-)
-6. [Soal 6](#6-jelaskan-langkah-langkah-penambahan-user-anda-sebagai-user-sudo-gunakan-perintah-su-lalu-setelah-masuk-sebagai-root-jalankan-perintah-visudo-tambahkan-user-anda-di-bawah-user-root-pada-bagian--user-privilege-specification-)
-7. [Referensi](#referensi)
+1. [Pendahuluan](#sistem-operasi-)
+2. [Soal 1](#1-jelaskan-langkah-langkah-proses-booting-)
+3. [Soal 2](#2-bagaimana-cara-install-debian-di-virtual-box-)
+4. [Referensi](#referensi)
 
 
-### 1. Buatlah tulisan tentang langkah-langkah instalasi sistem operasi Debian. Anda bisa menggunakan aplikasi virtualisasi seperti VirtualBox, VMWare Player, Vmware Fusion (MAC), dls. Kebutuhan sistem adalah sebagai berikut :
+### 1. Sistem Operasi
 
-- CPU : 2 core
-- RAM : 4096 (min)
-- HDD : 25GB dengan partisi :
-    - / : 20 GB
-    - /storage : 5 GB
-    - swap : 1,5 GB
-- Hostname : SysAdmin-NRP
+Sistem Operasi (SO) adalah perangkat lunak yang mengatur bagaimana sumber daya perangkat keras (seperti prosesor, memori, dan penyimpanan) di dalam komputer digunakan dan diatur. Secara umum, sistem operasi (OS) dapat dianggap sebagai perangkat lunak paling mendasar yang berjalan pada suatu sistem komputer. Ini menyediakan lingkungan di mana pengguna dapat menjalankan aplikasi.
 
 ### Tentang
 
