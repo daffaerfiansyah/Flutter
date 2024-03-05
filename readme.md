@@ -70,7 +70,7 @@ Kemudian, sistem operasi akan mengambil alih kendali dan mulai menjalankan progr
 
 Install Aplikasi Virtualbox
 
-![App Screenshot](https://github.com/daffaerfiansyah/SistemOperasi/blob/main/Foto/Login.png?raw=true)
+![App Screenshot](https://github.com/daffaerfiansyah/SistemOperasi/blob/main/Foto/3.png?raw=true)
 
 ## Referensi
 
